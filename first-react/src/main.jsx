@@ -51,7 +51,7 @@ function MyAwesomeNavbar() {
  */
 
 function MainContent() {
-    return <h1>React is great!</h1>
+    return <h1>Matthieu & Enzo are Gay!</h1>
 }
 
 root.render(
