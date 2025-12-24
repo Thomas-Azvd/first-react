@@ -51,7 +51,7 @@ function MyAwesomeNavbar() {
  */
 
 function MainContent() {
-    return <h1>Matthieu & Enzo are Gay!</h1>
+    return <h1>Psssst! This website is under construction. Please come back tomorrow, you might be luckier... Or not.</h1>
 }
 
 root.render(
